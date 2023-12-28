@@ -1,0 +1,599 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.616672,-38.416097 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Argentina",
+    "ISO_A2":"AR",
+    "attr1":"S/D",
+    "attr2":"3,7",
+    "attr3":18,
+    "attr4":"16*"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.796428,17.060816 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Antigua y Barbuda",
+    "ISO_A2":"AG",
+    "attr1":"S/D",
+    "attr2":"S/D",
+    "attr3":18,
+    "attr4":"sin excepciones"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.39628,25.03428 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Bahamas",
+    "ISO_A2":"BS",
+    "attr1":"S/D",
+    "attr2":"S/D",
+    "attr3":18,
+    "attr4":"15*"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -59.543198,13.193887 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Barbados",
+    "ISO_A2":"BB",
+    "attr1":"29%",
+    "attr2":"S/D",
+    "attr3":18,
+    "attr4":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.49765,17.189877 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Belice",
+    "ISO_A2":"BZ",
+    "attr1":"33%",
+    "attr2":"2,8",
+    "attr3":18,
+    "attr4":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -63.588653,-16.290154 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Bolivia",
+    "ISO_A2":"BO",
+    "attr1":"20%",
+    "attr2":"5,2",
+    "attr3":18,
+    "attr4":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -51.92528,-14.235004 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Brasil",
+    "ISO_A2":"BR",
+    "attr1":"26%",
+    "attr2":"2,9",
+    "attr3":18,
+    "attr4":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -71.542969,-35.675147 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Chile ",
+    "ISO_A2":"CL",
+    "attr1":"S/D",
+    "attr2":"6,3",
+    "attr3":18,
+    "attr4":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.297333,4.570868 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Colombia",
+    "ISO_A2":"CO",
+    "attr1":"23%\n(23,4% en informe al CEVI)",
+    "attr2":"2,9",
+    "attr3":18,
+    "attr4":"14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.753428,9.748917 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Costa Rica",
+    "ISO_A2":"CR",
+    "attr1":"21%",
+    "attr2":"2,2",
+    "attr3":18,
+    "attr4":"sin excepciones"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.781167,21.521757 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Cuba",
+    "ISO_A2":"CU",
+    "attr1":"26%",
+    "attr2":"S/D",
+    "attr3":18,
+    "attr4":"14"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.370976,15.414999 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Dominica",
+    "ISO_A2":"DM",
+    "attr1":"S/D",
+    "attr2":"S/D",
+    "attr3":18,
+    "attr4":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.183406,-1.831239 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Ecuador",
+    "ISO_A2":"EC",
+    "attr1":"20%",
+    "attr2":"3,8",
+    "attr3":18,
+    "attr4":"sin excepciones"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.89653,13.794185 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"El Salvador",
+    "ISO_A2":"SV",
+    "attr1":"26% \n(12,7% en informe al CEVI)",
+    "attr2":"4,1",
+    "attr3":18,
+    "attr4":"sin excepciones"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.604171,12.262776 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Grenada",
+    "ISO_A2":"GD",
+    "attr1":"S/D",
+    "attr2":"S/D",
+    "attr3":18,
+    "attr4":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.696645,9.945587 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Guatemala",
+    "ISO_A2":"GT",
+    "attr1":"29%",
+    "attr2":"2,6",
+    "attr3":18,
+    "attr4":"sin excepciones"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -9.696645,9.945587 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Guyana",
+    "ISO_A2":"GY",
+    "attr1":"30%",
+    "attr2":"S/D",
+    "attr3":18,
+    "attr4":"16*"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -72.285215,18.971187 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Haiti",
+    "ISO_A2":"HT",
+    "attr1":"15%",
+    "attr2":"S/D",
+    "attr3":15,
+    "attr4":"15*"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.241905,15.199999 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Honduras",
+    "ISO_A2":"HN",
+    "attr1":"21%\n(17,1% en informe al CEVI)",
+    "attr2":"3,0",
+    "attr3":18,
+    "attr4":"sin excepciones"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.297508,18.109581 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Jamaica",
+    "ISO_A2":"JM",
+    "attr1":"8%",
+    "attr2":"S/D",
+    "attr3":18,
+    "attr4":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -102.552784,23.634501 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"México",
+    "ISO_A2":"MX",
+    "attr1":"26% \n(20,7% en informe remitido al CEVI)",
+    "attr2":"2,0",
+    "attr3":18,
+    "attr4":"sin excepciones"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.207229,12.865416 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Nicaragua",
+    "ISO_A2":"NI",
+    "attr1":"35%",
+    "attr2":"4,2",
+    "attr3":18,
+    "attr4":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.782127,8.537981 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Panamá",
+    "ISO_A2":"PA",
+    "attr1":"26%",
+    "attr2":"3,5",
+    "attr3":18,
+    "attr4":"sin excepciones"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -58.443832,-23.442503 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Paraguay",
+    "ISO_A2":"PY",
+    "attr1":"22%\n(20% en informe al CEVI)",
+    "attr2":"1,9",
+    "attr3":18,
+    "attr4":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.015152,-9.189967 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Perú",
+    "ISO_A2":"PE",
+    "attr1":"19%\n(16,9% en informe al CEVI)",
+    "attr2":"2,0",
+    "attr3":18,
+    "attr4":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -70.162651,18.735693 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"República Dominicana",
+    "ISO_A2":"DO",
+    "attr1":"36%",
+    "attr2":"5,6",
+    "attr3":18,
+    "attr4":"sin excepciones"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -62.782998,17.357822 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"San Cristobal y Nieves",
+    "ISO_A2":"KN",
+    "attr1":"S/D",
+    "attr2":"S/D",
+    "attr3":18,
+    "attr4":"S/D"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.287228,12.984305 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"San Vicente y Las Granadinas",
+    "ISO_A2":"VC",
+    "attr1":"S/D",
+    "attr2":"S/D",
+    "attr3":18,
+    "attr4":"15"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -60.978893,13.909444 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Santa Lucía",
+    "ISO_A2":"LC",
+    "attr1":"25%",
+    "attr2":"S/D",
+    "attr3":18,
+    "attr4":"16"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -56.027783,3.919305 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Suriname",
+    "ISO_A2":"SR",
+    "attr1":"19%",
+    "attr2":"S/D",
+    "attr3":18,
+    "attr4":"No hay edad mínima"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -61.222503,10.691803 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Trinidad y Tobago",
+    "ISO_A2":"TT",
+    "attr1":"11%",
+    "attr2":"1,2",
+    "attr3":18,
+    "attr4":"sin excepciones"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -55.765835,-32.522779 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Uruguay",
+    "ISO_A2":"UY",
+    "attr1":"25%",
+    "attr2":"1,2",
+    "attr3":16,
+    "attr4":"sin excepciones"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -66.58973,6.42375 ]
+    },
+    "properties": {
+    "marker-color":"#0e5e7e",
+    "marker-size":"medium",
+    "marker-symbol":"circle",
+    "pais":"Venezuela ",
+    "ISO_A2":"VE",
+    "attr1":"S/D",
+    "attr2":"3,2",
+    "attr3":18,
+    "attr4":"Menor de 16 en caso de embarazo"
+    }
+  }
+]
+}
