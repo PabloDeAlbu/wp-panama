@@ -13,14 +13,10 @@
     "marker-symbol":"circle",
     "pais":"Argentina",
     "ISO_A2":"AR",
-    "attr1":"S/D",
-    "attr2":"3,7",
-    "attr3":18,
-    "attr4":"16*",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"15%",
-    "Tasa Especifica de Fertilidad 15-19 años":"27,3%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"3,7",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"15%",
+    "tasaFertilidad15-19":"27,3%",
+    "edadMinimaMatrimonio":"3,7",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -35,14 +31,10 @@
     "marker-symbol":"circle",
     "pais":"Antigua y Barbuda",
     "ISO_A2":"AG",
-    "attr1":"S/D",
-    "attr2":"S/D",
-    "attr3":18,
-    "attr4":"sin excepciones",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"S/D",
-    "Tasa Especifica de Fertilidad 15-19 años":"29,20%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"S/D"
+    "mujeresCasadasAntes18":"S/D",
+    "tasaFertilidad15-19":"29,20%",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"S/D"
     }
   },
   {
@@ -57,14 +49,10 @@
     "marker-symbol":"circle",
     "pais":"Bahamas",
     "ISO_A2":"BS",
-    "attr1":"S/D",
-    "attr2":"S/D",
-    "attr3":18,
-    "attr4":"15*",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"S/D",
-    "Tasa Especifica de Fertilidad 15-19 años":"24,50%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"S/D",
+    "tasaFertilidad15-19":"24,50%",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -79,14 +67,10 @@
     "marker-symbol":"circle",
     "pais":"Barbados",
     "ISO_A2":"BB",
-    "attr1":"29%",
-    "attr2":"S/D",
-    "attr3":18,
-    "attr4":"16",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"29%",
-    "Tasa Especifica de Fertilidad 15-19 años":"40,1%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"29%",
+    "tasaFertilidad15-19":"40,1%",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -101,14 +85,10 @@
     "marker-symbol":"circle",
     "pais":"Belice",
     "ISO_A2":"BZ",
-    "attr1":"33%",
-    "attr2":"2,8",
-    "attr3":18,
-    "attr4":"16",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"34%",
-    "Tasa Especifica de Fertilidad 15-19 años":"56,4%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"2,8",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"34%",
+    "tasaFertilidad15-19":"56,4%",
+    "edadMinimaMatrimonio":"2,8",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -123,14 +103,10 @@
     "marker-symbol":"circle",
     "pais":"Bolivia",
     "ISO_A2":"BO",
-    "attr1":"20%",
-    "attr2":"5,2",
-    "attr3":18,
-    "attr4":"16",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"20%",
-    "Tasa Especifica de Fertilidad 15-19 años":"71%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"5,2",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"20%",
+    "tasaFertilidad15-19":"71%",
+    "edadMinimaMatrimonio":"5,2",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -145,14 +121,10 @@
     "marker-symbol":"circle",
     "pais":"Brasil",
     "ISO_A2":"BR",
-    "attr1":"26%",
-    "attr2":"2,9",
-    "attr3":18,
-    "attr4":"16",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"26%",
-    "Tasa Especifica de Fertilidad 15-19 años":"43,1%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"2,9",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"26%",
+    "tasaFertilidad15-19":"43,1%",
+    "edadMinimaMatrimonio":"2,9",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -167,14 +139,10 @@
     "marker-symbol":"circle",
     "pais":"Chile ",
     "ISO_A2":"CL",
-    "attr1":"S/D",
-    "attr2":"6,3",
-    "attr3":18,
-    "attr4":"16",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"S/D",
-    "Tasa Especifica de Fertilidad 15-19 años":"11,60%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"6,3",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"S/D",
+    "tasaFertilidad15-19":"11,60%",
+    "edadMinimaMatrimonio":"6,3",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -189,14 +157,10 @@
     "marker-symbol":"circle",
     "pais":"Colombia",
     "ISO_A2":"CO",
-    "attr1":"23%\n(23,4% en informe al CEVI)",
-    "attr2":"2,9",
-    "attr3":18,
-    "attr4":"14",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"23%",
-    "Tasa Especifica de Fertilidad 15-19 años":"53,43%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"2,9",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"23%",
+    "tasaFertilidad15-19":"53,43%",
+    "edadMinimaMatrimonio":"2,9",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -211,14 +175,10 @@
     "marker-symbol":"circle",
     "pais":"Costa Rica",
     "ISO_A2":"CR",
-    "attr1":"21%",
-    "attr2":"2,2",
-    "attr3":18,
-    "attr4":"sin excepciones",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"17%",
-    "Tasa Especifica de Fertilidad 15-19 años":"26,9%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"2,2",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"17%",
+    "tasaFertilidad15-19":"26,9%",
+    "edadMinimaMatrimonio":"2,2",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -233,14 +193,10 @@
     "marker-symbol":"circle",
     "pais":"Cuba",
     "ISO_A2":"CU",
-    "attr1":"26%",
-    "attr2":"S/D",
-    "attr3":18,
-    "attr4":"14",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"29%",
-    "Tasa Especifica de Fertilidad 15-19 años":"50,6%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"29%",
+    "tasaFertilidad15-19":"50,6%",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -255,14 +211,10 @@
     "marker-symbol":"circle",
     "pais":"Dominica",
     "ISO_A2":"DM",
-    "attr1":"S/D",
-    "attr2":"S/D",
-    "attr3":18,
-    "attr4":"16",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"S/D",
-    "Tasa Especifica de Fertilidad 15-19 años":"37,60%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"S/D",
+    "tasaFertilidad15-19":"37,60%",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -277,14 +229,10 @@
     "marker-symbol":"circle",
     "pais":"Ecuador",
     "ISO_A2":"EC",
-    "attr1":"20%",
-    "attr2":"3,8",
-    "attr3":18,
-    "attr4":"sin excepciones",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"22%",
-    "Tasa Especifica de Fertilidad 15-19 años":"55%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"3,8",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"22%",
+    "tasaFertilidad15-19":"55%",
+    "edadMinimaMatrimonio":"3,8",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -299,14 +247,10 @@
     "marker-symbol":"circle",
     "pais":"El Salvador",
     "ISO_A2":"SV",
-    "attr1":"26% \n(12,7% en informe al CEVI)",
-    "attr2":"4,1",
-    "attr3":18,
-    "attr4":"sin excepciones",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"20%",
-    "Tasa Especifica de Fertilidad 15-19 años":"54,4%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"4,1",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"20%",
+    "tasaFertilidad15-19":"54,4%",
+    "edadMinimaMatrimonio":"4,1",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -321,14 +265,10 @@
     "marker-symbol":"circle",
     "pais":"Grenada",
     "ISO_A2":"GD",
-    "attr1":"S/D",
-    "attr2":"S/D",
-    "attr3":18,
-    "attr4":"16",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"S/D",
-    "Tasa Especifica de Fertilidad 15-19 años":"31,50%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"S/D",
+    "tasaFertilidad15-19":"31,50%",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -343,14 +283,10 @@
     "marker-symbol":"circle",
     "pais":"Guatemala",
     "ISO_A2":"GT",
-    "attr1":"29%",
-    "attr2":"2,6",
-    "attr3":18,
-    "attr4":"sin excepciones",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"29%",
-    "Tasa Especifica de Fertilidad 15-19 años":"67%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"2,6",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"29%",
+    "tasaFertilidad15-19":"67%",
+    "edadMinimaMatrimonio":"2,6",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -365,14 +301,10 @@
     "marker-symbol":"circle",
     "pais":"Guyana",
     "ISO_A2":"GY",
-    "attr1":"30%",
-    "attr2":"S/D",
-    "attr3":18,
-    "attr4":"16*",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"30%",
-    "Tasa Especifica de Fertilidad 15-19 años":"64,9%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"30%",
+    "tasaFertilidad15-19":"64,9%",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -387,14 +319,10 @@
     "marker-symbol":"circle",
     "pais":"Haiti",
     "ISO_A2":"HT",
-    "attr1":"15%",
-    "attr2":"S/D",
-    "attr3":15,
-    "attr4":"15*",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"15%",
-    "Tasa Especifica de Fertilidad 15-19 años":"55%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"15"
+    "mujeresCasadasAntes18":"15%",
+    "tasaFertilidad15-19":"55%",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"15"
     }
   },
   {
@@ -409,14 +337,10 @@
     "marker-symbol":"circle",
     "pais":"Honduras",
     "ISO_A2":"HN",
-    "attr1":"21%\n(17,1% en informe al CEVI)",
-    "attr2":"3,0",
-    "attr3":18,
-    "attr4":"sin excepciones",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"34%",
-    "Tasa Especifica de Fertilidad 15-19 años":"97%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"3,0",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"34%",
+    "tasaFertilidad15-19":"97%",
+    "edadMinimaMatrimonio":"3,0",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -431,14 +355,10 @@
     "marker-symbol":"circle",
     "pais":"Jamaica",
     "ISO_A2":"JM",
-    "attr1":"8%",
-    "attr2":"S/D",
-    "attr3":18,
-    "attr4":"16",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"8%",
-    "Tasa Especifica de Fertilidad 15-19 años":"35,8%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"8%",
+    "tasaFertilidad15-19":"35,8%",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -453,14 +373,10 @@
     "marker-symbol":"circle",
     "pais":"México",
     "ISO_A2":"MX",
-    "attr1":"26% \n(20,7% en informe remitido al CEVI)",
-    "attr2":"2,0",
-    "attr3":18,
-    "attr4":"sin excepciones",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"21%",
-    "Tasa Especifica de Fertilidad 15-19 años":"62%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"2,0",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"21%",
+    "tasaFertilidad15-19":"62%",
+    "edadMinimaMatrimonio":"2,0",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -475,14 +391,10 @@
     "marker-symbol":"circle",
     "pais":"Nicaragua",
     "ISO_A2":"NI",
-    "attr1":"35%",
-    "attr2":"4,2",
-    "attr3":18,
-    "attr4":"16",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"35%",
-    "Tasa Especifica de Fertilidad 15-19 años":"80%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"4,2",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"35%",
+    "tasaFertilidad15-19":"80%",
+    "edadMinimaMatrimonio":"4,2",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -497,14 +409,10 @@
     "marker-symbol":"circle",
     "pais":"Panamá",
     "ISO_A2":"PA",
-    "attr1":"26%",
-    "attr2":"3,5",
-    "attr3":18,
-    "attr4":"sin excepciones",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"26%",
-    "Tasa Especifica de Fertilidad 15-19 años":"51,8%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"3,5",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"26%",
+    "tasaFertilidad15-19":"51,8%",
+    "edadMinimaMatrimonio":"3,5",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -519,14 +427,10 @@
     "marker-symbol":"circle",
     "pais":"Paraguay",
     "ISO_A2":"PY",
-    "attr1":"22%\n(20% en informe al CEVI)",
-    "attr2":"1,9",
-    "attr3":18,
-    "attr4":"16",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"22%",
-    "Tasa Especifica de Fertilidad 15-19 años":"72%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"1,9",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"22%",
+    "tasaFertilidad15-19":"72%",
+    "edadMinimaMatrimonio":"1,9",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -541,14 +445,10 @@
     "marker-symbol":"circle",
     "pais":"Perú",
     "ISO_A2":"PE",
-    "attr1":"19%\n(16,9% en informe al CEVI)",
-    "attr2":"2,0",
-    "attr3":18,
-    "attr4":"16",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"14%",
-    "Tasa Especifica de Fertilidad 15-19 años":"33,7%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"2,0",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"14%",
+    "tasaFertilidad15-19":"33,7%",
+    "edadMinimaMatrimonio":"2,0",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -563,14 +463,10 @@
     "marker-symbol":"circle",
     "pais":"República Dominicana",
     "ISO_A2":"DO",
-    "attr1":"36%",
-    "attr2":"5,6",
-    "attr3":18,
-    "attr4":"sin excepciones",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"31%",
-    "Tasa Especifica de Fertilidad 15-19 años":"77%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"5,6",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"31%",
+    "tasaFertilidad15-19":"77%",
+    "edadMinimaMatrimonio":"5,6",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -585,14 +481,10 @@
     "marker-symbol":"circle",
     "pais":"San Cristobal y Nieves",
     "ISO_A2":"KN",
-    "attr1":"S/D",
-    "attr2":"S/D",
-    "attr3":18,
-    "attr4":"S/D",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"S/D",
-    "Tasa Especifica de Fertilidad 15-19 años":"",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"S/D",
+    "tasaFertilidad15-19":"",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -607,14 +499,10 @@
     "marker-symbol":"circle",
     "pais":"San Vicente y Las Granadinas",
     "ISO_A2":"VC",
-    "attr1":"S/D",
-    "attr2":"S/D",
-    "attr3":18,
-    "attr4":"15",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"S/D",
-    "Tasa Especifica de Fertilidad 15-19 años":"45,02%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"S/D",
+    "tasaFertilidad15-19":"45,02%",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -629,14 +517,10 @@
     "marker-symbol":"circle",
     "pais":"Santa Lucía",
     "ISO_A2":"LC",
-    "attr1":"25%",
-    "attr2":"S/D",
-    "attr3":18,
-    "attr4":"16",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"24%",
-    "Tasa Especifica de Fertilidad 15-19 años":"",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"24%",
+    "tasaFertilidad15-19":"",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -651,14 +535,10 @@
     "marker-symbol":"circle",
     "pais":"Suriname",
     "ISO_A2":"SR",
-    "attr1":"19%",
-    "attr2":"S/D",
-    "attr3":18,
-    "attr4":"No hay edad mínima",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"36%",
-    "Tasa Especifica de Fertilidad 15-19 años":"54,3%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"S/D",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"36%",
+    "tasaFertilidad15-19":"54,3%",
+    "edadMinimaMatrimonio":"S/D",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -673,14 +553,10 @@
     "marker-symbol":"circle",
     "pais":"Trinidad y Tobago",
     "ISO_A2":"TT",
-    "attr1":"11%",
-    "attr2":"1,2",
-    "attr3":18,
-    "attr4":"sin excepciones",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"11%",
-    "Tasa Especifica de Fertilidad 15-19 años":"14,7%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"1,2",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"11%",
+    "tasaFertilidad15-19":"14,7%",
+    "edadMinimaMatrimonio":"1,2",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   },
   {
@@ -695,14 +571,10 @@
     "marker-symbol":"circle",
     "pais":"Uruguay",
     "ISO_A2":"UY",
-    "attr1":"25%",
-    "attr2":"1,2",
-    "attr3":16,
-    "attr4":"sin excepciones",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"25%",
-    "Tasa Especifica de Fertilidad 15-19 años":"22,3%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"1,2",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"16"
+    "mujeresCasadasAntes18":"25%",
+    "tasaFertilidad15-19":"22,3%",
+    "edadMinimaMatrimonio":"1,2",
+    "edadMinimaMatrimonioConExcepcion":"16"
     }
   },
   {
@@ -717,14 +589,10 @@
     "marker-symbol":"circle",
     "pais":"Venezuela ",
     "ISO_A2":"VE",
-    "attr1":"S/D",
-    "attr2":"3,2",
-    "attr3":18,
-    "attr4":"Menor de 16 en caso de embarazo",
-    "% de mujeres entre 20 y 24 años que estaban casadas o mantenían una unión antes de los 18 años":"S/D",
-    "Tasa Especifica de Fertilidad 15-19 años":"92,30%",
-    "Edad mínima legal de mujeres para contraer matrimonio":"3,2",
-    "Edad mínima legal de mujeres para contraer matrimonio con excepción":"18"
+    "mujeresCasadasAntes18":"S/D",
+    "tasaFertilidad15-19":"92,30%",
+    "edadMinimaMatrimonio":"3,2",
+    "edadMinimaMatrimonioConExcepcion":"18"
     }
   }
 ]
